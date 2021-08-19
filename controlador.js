@@ -67,7 +67,7 @@ function seleccionarConsola(opcion){
         nombres:Array("Phone 12","Nintendo Switch","XBOX Serie X","PlayStation5" ),
         precios:Array(699,409,700,750),
         pesos:Array(162,4.75,13.1,14.2),
-        fotos:Array("img/phone.jpeg","img/nintendo.jpg","img/xbox.jpg","img/ps5.jpg"),
+        fotos:Array("img/iphone.webp","https://github.com/jjosegallegocesde/imagenes-amazon/blob/main/img/nintendo.jpg?raw=true","https://github.com/jjosegallegocesde/imagenes-amazon/blob/main/img/xbox.jpg?raw=true","https://github.com/jjosegallegocesde/imagenes-amazon/blob/main/img/ps5.jpg?raw=true"),
     }
 
     if(opcion==1){
