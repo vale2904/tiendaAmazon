@@ -65,8 +65,8 @@ function seleccionarConsola(opcion){
 
     let consolas={
         nombres:Array("Phone 12","Nintendo Switch","XBOX Serie X","PlayStation5","airpods","audifonos xbox","Redmi watch","Macbook","ipad","tarjeta netflix","tarjeta xbox","camara sony","alexa","parlantes","dron" ),
-        precios:Array(699,409,700,750,800,900,500,600,400,300,350,476,340,780,560),
-        pesos:Array(162,4.75,13.1,14.2,133,12.4,13.5,160,12.1,13.1,155,160,170,188,15.1),
+        precios:Array(699,409,700,750,35,159,200,1120,780,470,699,409,700,750,35,159),
+        pesos:Array(162,4.75,13.1,14.2,38,4,16.8,175,4.48,4.30,162,4.75,13.1,14.2,38,4.48 ),
         fotos:Array("img/iphone.webp","https://github.com/jjosegallegocesde/imagenes-amazon/blob/main/img/nintendo.jpg?raw=true","https://github.com/jjosegallegocesde/imagenes-amazon/blob/main/img/xbox.jpg?raw=true","https://github.com/jjosegallegocesde/imagenes-amazon/blob/main/img/ps5.jpg?raw=true","img/airpods.jpg","img/airx.jpg","img/smartwatch.jpg","img/macbook.webp","img/ipad.jpg","img/cardn.webp","img/cardxbox.jpg","img/sony.jpg","img/alexa.webp","img/parlante.jpg","img/dron.jpg"),
     }
 
